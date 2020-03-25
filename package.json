@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "1.1.0",
+  "description": "Walk around",
+  "scripts": {
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "binh",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-xlsx": "^0.15.0",
+    "mongo-models": "git+ssh://git@bitbucket.org/vennpoint/mongo-models.git#semver:^6.0.0",
+    "object-mapper": "^5.0.0",
+    "readme-md-generator": "^0.2.1",
+    "xlsx": "^0.15.0"
+  }
+}
